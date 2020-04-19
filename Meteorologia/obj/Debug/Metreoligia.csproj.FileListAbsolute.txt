@@ -1,0 +1,10 @@
+C:\Users\dst30\source\repos\apai\Metreoligia\Metreoligia\bin\Debug\Metreoligia.exe.config
+C:\Users\dst30\source\repos\apai\Metreoligia\Metreoligia\bin\Debug\Metreoligia.exe
+C:\Users\dst30\source\repos\apai\Metreoligia\Metreoligia\bin\Debug\Metreoligia.pdb
+C:\Users\dst30\source\repos\apai\Metreoligia\Metreoligia\obj\Debug\Metreoligia.csprojAssemblyReference.cache
+C:\Users\dst30\source\repos\apai\Metreoligia\Metreoligia\obj\Debug\Metreoligia.Form1.resources
+C:\Users\dst30\source\repos\apai\Metreoligia\Metreoligia\obj\Debug\Metreoligia.Properties.Resources.resources
+C:\Users\dst30\source\repos\apai\Metreoligia\Metreoligia\obj\Debug\Metreoligia.csproj.GenerateResource.cache
+C:\Users\dst30\source\repos\apai\Metreoligia\Metreoligia\obj\Debug\Metreoligia.csproj.CoreCompileInputs.cache
+C:\Users\dst30\source\repos\apai\Metreoligia\Metreoligia\obj\Debug\Metreoligia.exe
+C:\Users\dst30\source\repos\apai\Metreoligia\Metreoligia\obj\Debug\Metreoligia.pdb
